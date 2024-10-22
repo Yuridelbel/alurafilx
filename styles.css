@@ -1,0 +1,16 @@
+body{
+    color:rgb(121, 3, 19);
+    background-color:black
+    
+}
+
+header{
+   border-bottom: solid 2px rgb(189, 147, 41);
+   padding: 20px;
+}
+
+body{
+    color:aliceblue;
+    background: black;
+    margin: 2px;
+}
